@@ -1,0 +1,35 @@
+*{
+    margin: 2px;
+    padding: 2px;
+    
+}
+body{
+    background-color: rgb(210, 241, 231);
+   
+
+}
+header{
+    background-color: #df7474;
+    ;
+}
+main{
+    background-color: #df9494;
+    
+}
+.cuerpo {
+    
+}
+button{
+    background-color: #df7474;
+    border-radius: 10px;
+
+}
+.pie {
+    grid-area: pie;
+}
+ul{
+    list-style: none;
+    background-color: #df7474;
+    display: flex;
+    justify-content: space-between;
+}
