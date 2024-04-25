@@ -31,5 +31,9 @@ ul{
     list-style: none;
     background-color: #df7474;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    li{
+        background-color: #df9494;
+        border-radius: 5px;
+    }
 }
